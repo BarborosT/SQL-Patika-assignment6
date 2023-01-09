@@ -1,3 +1,4 @@
+https://app.patika.dev/barborost </br>
 # SQL-Patika-assignment6
 
 1.film tablosunda bulunan rental_rate sütunundaki değerlerin ortalaması nedir?
